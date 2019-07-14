@@ -1,0 +1,34 @@
+Atividade Prática: Vetores
+1 - Escreva um programa que leia 10 números inteiros. Escrevas os 10 números na ordem correta e depois os 10 números na ordem inversa (da posição 10 para a primeira). 
+
+2 - Escreva um programa que leia 10 números inteiros. Apresente a soma dos 10 números. 
+
+3 - Escreva um programa que leia 10 números reais. Apresente o resultado da  multiplicação destes. 
+
+4 - Faça um programa que carregue automaticamente 2 vetores. O primeiro com 10 elementos numéricos e o segundo com 10 caracteres. Imprima o conteúdo destes vetores intercalados. Ex:
+1a2b3c4d5e...
+Dica: char c[10]; for(i=0;i<10<i++) c[i]=65+i;
+
+5 - Faça um programa que recebe a nota de 10 alunos e armazene as notas em um vetor. Calcule:
+
+a - a média da classe
+
+b - a quantidade de alunos aprovados, com média =7
+
+c - a quantidade de alunos reprovados.
+
+6- CAIXA ELETRÔNICO. Escrever um programa que lê um valor inteiro em reais e calcula qual o menor número possível de notas de 100, 50, 20, 10, 5, 2 e 1 em que o valor lido pode ser entregue ao cliente. Escrever a relação de notas necessárias. Utilize um vetor para armazenar o valor de cada tipo de nota. Notas = {100, 50, 20, 10, 5, 2, 1}
+
+
+Atividades Matrizes
+1 - Faça um programa que carregue uma matriz 3x3 de números inteiros. Calcule:
+
+a - o maior número
+
+b - o menor número
+
+c - a média dos números
+
+d - a soma da linha 1
+
+e - o produto (multiplicação) da diagonal principal
