@@ -1,0 +1,41 @@
+Atividade Prática: Exercícios Funções
+1 - Escreva um programa que leia um número e escreva este número elevado ao quadrado.
+O programa deve ter uma função que recebe um número como parâmetro e retorne este número elevado ao quadrado
+
+2 - Escreva um programa que leia 3 números. 
+O programa deve apresentar a soma e o produto dos 3 números. 
+O programa deve ter uma função que recebe os três números e retorna a soma, e outra função que recebe os três números e retorna o produto.
+
+3 - Escreva um programa que apresente leia dois números e apresente as seguintes opções:
+A - Somar 2 números
+B - Multiplicar 2 números
+C - Dividir 2 Números
+D -  Subtrair 2 Números
+
+Cada um dos items deve ser uma função 
+
+4 - Calculadora2: Escreva um programa onde o usuário poderá escolher uma das opções:
+a - Soma (ler operador 1 e operador 2)
+b - Subtração (ler operador 1 e operador 2)
+c - Divisão (ler base e divisor)
+d - Multiplicação (ler base e multiplicador)
+e - Fatorial
+f - Potencia (ler base e potencia)
+g - SAIR
+
+5 - O cardápio de uma lancheria é o seguinte:
+Código do lanche | Especificação   | Preço unitário
+100              | Cachorro quente | 11,00
+101              | Bauru simples   | 13,00
+102              | Bauru c/ovo     | 15,00
+103              | Hamburger       | 11,00
+104              | Cheeseburger    | 13,00
+105              | Refrigerante    | 3,00
+
+O programa deverá apresentar as seguintes opções:
+A - Novo pedido (Zerar Valor total do pedido)
+B - Incluir Item e quantidade
+C - Fechar pedido e Imprimir total (Apenas valor, somar total ao total do dia)
+D - Total do Dia (apenas valor)
+E - SAIR do programa
+O Programa deverá ter uma função que receba como parâmetros o código do item e a quantidade, esta função deverá retornar o valor daquela quantidade de items.
